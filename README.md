@@ -154,4 +154,6 @@ The system returns a processed CSV file containing:
 
 ## 👨‍💻 Author
 
-**Ninad Amane** | [LinkedIn](https://www.linkedin.com/in/ninad-amane/) | [Email](ninadamane@gmail.com)
+**Ninad Amane**
+| [LinkedIn](https://www.linkedin.com/in/ninad-amane/) |
+ninadamane@gmail.com
