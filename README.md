@@ -51,18 +51,18 @@ This enables intelligent reasoning where rule-based and traditional ML fall shor
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-ninadamane/logs_classification_nlp_project/
+```
 ├── models/
-│ └── log_classifier.joblib
+│   └── log_classifier.joblib
 ├── resources/
-│ ├── output.csv
-│ └── test.csv
+│   ├── output.csv
+│   └── test.csv
 ├── training/
-│ ├── dataset/
-│ │ └── synthetic_logs.csv
-│ └── training.ipynb
+│   ├── dataset/
+│   │   └── synthetic_logs.csv
+│   └── training.ipynb
 ├── .gitignore
 ├── classify.py
 ├── processor_bert.py
@@ -70,6 +70,7 @@ ninadamane/logs_classification_nlp_project/
 ├── processor_regex.py
 ├── requirements.txt
 └── server.py
+```
 
 ## ⚙️ Setup Instructions
 
